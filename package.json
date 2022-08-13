@@ -1,5 +1,5 @@
 {
-  "name": "centaurus",
+  "name": "centaurus-styles",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/willysilva/Centaurus.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "author": "Willy Silva <i_struck@hotmail.com>",
   "license": "MIT",
