@@ -1,0 +1,22 @@
+{
+  "name": "centaurus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willysilva/Centaurus.git"
+  },
+  "author": "Willy Silva <i_struck@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@stitches/react": "^1.2.8"
+  },
+  "bugs": {
+    "url": "https://github.com/willysilva/Centaurus/issues"
+  },
+  "homepage": "https://github.com/willysilva/Centaurus#readme"
+}
