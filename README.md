@@ -12,6 +12,14 @@ deixando a componentização independente e reutilizável em projetos separados.
 
 ## Instalação
 
+Instalar com npm
+
+```bash
+  npm i centaurus-styles
+```
+
+Instalar com yarn
+
 ```bash
   npm i centaurus-styles
 ```
@@ -25,7 +33,7 @@ definidas pelo pacote para a tipografia
 ```javascript
 import { styled, theme } from "centaurus-styles";
 
-export const InputStyles = styled("input", {
+export const InputText = styled("input", {
   fontSize: theme.fontSizes.subHeading,
   fontFamily: theme.fontFamilies.default,
   fontWeight: theme.fontWeights.regular
