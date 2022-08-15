@@ -34,9 +34,9 @@ definidas pelo pacote para a tipografia
 import { styled, theme } from "centaurus-styles";
 
 export const InputText = styled("input", {
-  fontSize: theme.fontSizes.subHeading,
-  fontFamily: theme.fontFamilies.default,
-  fontWeight: theme.fontWeights.regular
-  border: `1px solid ${theme.colors.magenta}`
+  fontSize: "$subHeading",
+  fontFamily: "$default",
+  fontWeight: "$regular",
+  border: `1px solid $magenta`
   }})
 ```
