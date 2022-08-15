@@ -21,7 +21,7 @@ Instalar com npm
 Instalar com yarn
 
 ```bash
-  npm i centaurus-styles
+  yarn install centaurus-styles
 ```
 
 ## Exemplo
