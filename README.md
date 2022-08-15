@@ -1,6 +1,6 @@
 #Centaurus
 
-Esse projeto é a tipografia inicial da serasa.
+Esse projeto é o designer system inicial da serasa, a intenção de separar em um package npm é para ser utilizado em multiplos projetos
 
 para a criação da arquitetura foi utilizado o [Stitches](https://stitches.dev)
 
