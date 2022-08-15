@@ -7,8 +7,8 @@ para a criação da arquitetura foi utilizado o [Stitches](https://stitches.dev)
 O stitches permite utilizar a tipografia de
 forma independente do framework, e permite estilizar
 componentes inteiros sem depender necessariamente de
-personalização dentro do framework utlizado com o [Stitches Agnostic Core](https://stitches.dev/docs/framework-agnostic) ,
-deixando a componentização independente de um framework específico.
+personalização dentro do framework utilizando o [Stitches Agnostic Core](https://stitches.dev/docs/framework-agnostic) ,
+deixando a componentização independente e reutilizável em projetos separados.
 
 ## Instalação
 
